@@ -2,12 +2,12 @@ repos:
 
   - name: ft_printf
     dest: source/ft_printf
-    url: git@github.com:dsantama-S/ft_printf.git
+    url: https://github.com/dsantama-S/ft_printf.git
     branch: master
 
   - name: ft_libasm
     dest: source/ft_libasm
-    url: git@github.com:dsantama-S/ft_libasm.git
+    url: https://github.com/dsantama-S/ft_libasm.git
     branch: master
 
 groups:
