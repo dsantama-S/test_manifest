@@ -14,8 +14,6 @@ groups:
     repos:
       - source/ft_printf
       - source/ft_libasm
-    description: Personal 42 Madrid source repositories
 
   full:
     repos: [all]
-    description: Complete workspace
