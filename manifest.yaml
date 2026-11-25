@@ -1,0 +1,23 @@
+repos:
+
+  - name: ft_printf
+    dest: source/ft_printf
+    url: git@github.com:dsantama-S/ft_printf.git
+    branch: master
+
+  - name: ft_libasm
+    dest: source/ft_libasm
+    url: git@github.com:dsantama-S/ft_libasm.git
+    branch: master
+
+groups:
+
+  source-code:
+    repos:
+      - ft_printf
+      - ft_libasm
+    description: Personal 42 Madrid source repositories
+
+  full:
+    repos: [all]
+    description: Complete workspace
